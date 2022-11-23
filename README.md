@@ -1,1 +1,1 @@
-# ga_guru_python_3_2
+# qa_guru_python_3_2
